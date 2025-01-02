@@ -13,4 +13,5 @@ All of these dashboards are based on projects that received prior approval for u
 - [Dashboard - Marisa - Conciliação Fiscal](https://app.powerbi.com/view?r=eyJrIjoiMjY0NTBlYmYtOGE1OS00NmY2LTljOGQtNmY5YTlmYWM5NmRhIiwidCI6IjIxYzJlNjZhLTJiOWYtNGE5OS1iZWZiLTlhZTk5MDVhNzIwZCJ9)
 - [Dashboard - Vendas](https://app.powerbi.com/view?r=eyJrIjoiNmFkZTkyNGItNTc5Zi00MDVkLWEwNTMtMmFlNGJjMDc4YjM3IiwidCI6IjIxYzJlNjZhLTJiOWYtNGE5OS1iZWZiLTlhZTk5MDVhNzIwZCJ9)
 
-# Portfolio Power Point Demo
+# Portfolio PDF Demo
+- [Real Time Dashboard - Demo](https://www.canva.com/design/DAGbBJWJGGM/qfabJYOOvMymAbi399FuQg/edit?utm_content=DAGbBJWJGGM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
