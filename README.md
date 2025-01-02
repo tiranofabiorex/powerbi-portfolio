@@ -5,7 +5,7 @@ Dashboards developed with a focus on mastering Power BI, aiming to build a portf
 
 All of these dashboards are based on projects that received prior approval for use in my portfolio. It is important to note that all the data included in these visualizations is entirely fictional and has been specifically designed for demonstration purposes."
 
-# Portfolio Power BI 📊
+# Portfolio Power BI
 
 - [Dashboard - Eureciclo - Vendas; Preço Médio; Vendas Site; Mapa](https://app.powerbi.com/groups/b76988de-bfff-44c9-940f-60df1182ee35/reports/ed3199e3-0f30-4fe2-9e05-b1958f644b3c/ReportSection?experience=power-bi) 
 - [Dashboard - Mondelez - Sell Out](https://app.powerbi.com/view?r=eyJrIjoiY2YxYzE3NTItNmY2MC00MzU1LTg0ZjktNjZjZWFiNWQ5MDczIiwidCI6IjIxYzJlNjZhLTJiOWYtNGE5OS1iZWZiLTlhZTk5MDVhNzIwZCJ9)
